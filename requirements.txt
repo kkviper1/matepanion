@@ -1,0 +1,4 @@
+django
+twilio
+krutrim-cloud
+pyngrok
